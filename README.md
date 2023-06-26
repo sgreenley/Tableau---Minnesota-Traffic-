@@ -1,17 +1,21 @@
-# Tableau---Minnesota-Traffic-
+# Minnesota Department of Transportation Project
 
-Project Requirements Document: Minnesota Department of Transportation
-Project                                                                                   
-BI Analyst: Stuart Greenley
-Client/Sponsor: Minnesota Department of Transportation dashboard
-Purpose:. Their goal is to learn more about traffic patterns
-Key dependencies: 
-Understand the following:
-Understand what deliverables are required
-Understand the business question being answered
-Collect data for project
-Stakeholder requirements: 
-Business problem: Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. Knowing construction in the future won’t cause problems for drivers.
+### Project                                                                     
+
+**BI Analyst:** Stuart Greenley
+
+**Client/Sponsor:** Minnesota Department of Transportation dashboard
+
+**Purpose:** Their goal is to learn more about traffic patterns
+
+**Key dependencies:** Understand the following:
+1. Understand what deliverables are required
+2. Understand the business question being answered
+3. Collect data for project
+
+**Stakeholder requirements:**
+
+**Business problem:** Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. Knowing construction in the future won’t cause problems for drivers.
 Stakeholders: (Who are the major stakeholders of this project, and what are their job titles?)
 Stakeholder usage details: (How will the stakeholders use the BI tool?)
 Primary requirements:
