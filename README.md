@@ -15,14 +15,15 @@
 
 **Stakeholder requirements:**
 
-**Business problem:** Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. Knowing construction in the future won’t cause problems for drivers.
-Stakeholders: (Who are the major stakeholders of this project, and what are their job titles?)
-Stakeholder usage details: (How will the stakeholders use the BI tool?)
-Primary requirements:
-Create a dashboard with the following
-Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
-Traffic volume in different weather conditions
- Traffic volume on different holidays 
+|Business problem: | Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. Knowing construction in the future won’t cause problems for drivers.|
+|---|---|
+|Stakeholders:  (Who are the major stakeholders of this project, and what are their job titles?)| |
+|Stakeholder usage details: (How will the stakeholders use the BI tool?)
+|Primary requirements: | Create a dashboard with the following 
+a. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
+b. Traffic volume in different weather conditions
+c.  Traffic volume on different holidays |
+
 
 
 
