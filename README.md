@@ -1,6 +1,8 @@
-# Minnesota Department of Transportation Project
+# <span style="color: green;">Minnesota Department of Transportation Project</span> 
 
-### Project                                                                     
+### LINK : 
+
+## <span style="color: blue;">Project</span>                                                                  
 
 **BI Analyst:** Stuart Greenley
 
@@ -15,28 +17,18 @@
 
 **Stakeholder requirements:**
 
-|Business problem: | Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. Knowing construction in the future won’t cause problems for drivers.|
+| Stakeholder Requirements | Notes |
 |---|---|
+|Business problem: | Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. Knowing construction in the future won’t cause problems for drivers.|
 |Stakeholders:  (Who are the major stakeholders of this project, and what are their job titles?)| |
 |Stakeholder usage details: (How will the stakeholders use the BI tool?)
-|Primary requirements: | Create a dashboard with the following 
-a. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
-b. Traffic volume in different weather conditions
-c.  Traffic volume on different holidays |
-
-
-
-
+|Primary requirements: | Create a dashboard with the following 1. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour 2. Traffic volume in different weather conditions 3. Traffic volume on different holidays |
 
 (List the established stakeholder requirements, based on the Stakeholder Requirements Document. Prioritize the requirements as: R - required, D - desired, or N - nice to have.)
-Success criteria: (Clarify what success looks like for this project. Include explicit statements about how to measure success. Use SMART criteria.) 
-User journeys: (Document the current user experience and the ideal future experience.)
-Assumptions: (Explicitly and clearly state any assumptions you are making.)
-Compliance and privacy: (Include compliance, privacy, or legal dimensions to consider.)
-Accessibility: (List key considerations for creating accessible reports for all users.)
-Roll-out plan: (Detail the expected scope, priorities and timeline
 
-Strategy 
+
+## <span style="color: blue;">ProjectStrategy</span>  
+
 Which parts of the dataset will enable you to address the business requirement? Which measures and dimensions will be represented in each chart? Which chart types and forms of encoding will be most effective? And how many charts are required?
 
 Primary dataset: Metro_Interstate_Traffic_Volume
