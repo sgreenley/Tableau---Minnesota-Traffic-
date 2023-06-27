@@ -18,10 +18,10 @@
 **Stakeholder requirements:**
 
 | Stakeholder Requirements | Notes |
-|---|---|
+|----|----|
 |Business problem: | Knowing traffic patterns under these conditions will help the team make important infrastructure decisions. Knowing construction in the future won’t cause problems for drivers.|
-|Stakeholders:  (Who are the major stakeholders of this project, and what are their job titles?)| |
-|Stakeholder usage details: (How will the stakeholders use the BI tool?)
+|Stakeholders:  (Who are the major stakeholders of this project, and what are their job titles?)|Camila from MDOT |
+|Stakeholder usage details: (How will the stakeholders use the BI tool?) |  clients want to be able to compare traffic volume at different points in time and at different timescales. |
 |Primary requirements: | Create a dashboard with the following 1. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour 2. Traffic volume in different weather conditions 3. Traffic volume on different holidays |
 
 (List the established stakeholder requirements, based on the Stakeholder Requirements Document. Prioritize the requirements as: R - required, D - desired, or N - nice to have.)
@@ -63,7 +63,7 @@
 | Chart Feature | Your Request |
 |--- |--- |
 | Chart title | Traffic Holidays |
-| Chart type (What type of chart needs to be created?)| |
+| Chart type (What type of chart needs to be created?)| Bar Chart |
 | Dimension(s) - A piece of information that provides more detail and context regarding a fact. (What dimensions does this chart need to include?)| Traffic volume on different holidays |
 | Metric(s) -A single, quantifiable data point that is used to evaluate performance. (What metrics are relevant to this chart?) | 1. Traffic volume 2. Date time 3. Customer measure for holidays |
 
