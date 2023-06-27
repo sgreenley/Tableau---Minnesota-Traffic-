@@ -1,6 +1,6 @@
 # <span style="color: green;">Minnesota Department of Transportation Project</span> 
 
-### LINK : 
+### Tableau LINK : 
 
 ## <span style="color: blue;">Project</span>                                                                  
 
@@ -54,8 +54,8 @@
 | Chart Feature | Your Request |
 |--- |--- | 
 | Chart title | Trafic in Weather |
-| Chart type (What type of chart needs to be created?) |  |
-| Dimension(s) - A piece of information that provides more detail and context regarding a fact . (What dimensions does this chart need to include?) | Traffic volume in different weather conditions |
+| Chart type (What type of chart needs to be created?) | Heat Map  |
+| Dimension(s) - A piece of information that provides more detail and context regarding a fact . (What dimensions does this chart need to include?) | Traffic volume in different all the different weather conditions |
 | Metric(s) -A single, quantifiable data point that is used to evaluate performance. (What metrics are relevant to this chart?) | 1. Traffic volume 2. Date time 3. Weather main |
 
 
