@@ -69,5 +69,5 @@
 
 **Dashboard mockup**
 
-![]()
+![Mock up](https://github.com/sgreenley/Tableau---Minnesota-Traffic-/blob/main/IMG_4477.jpeg)
 
